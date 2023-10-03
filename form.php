@@ -14,7 +14,7 @@ include 'thanks.php';
 <body>
     <section>
     <h1>Formulaire de contact</h1>
-    <form  action="form.php"  method="post">
+    <form  action="thanks.php"  method="post">
         <div>
           <label  for="nom">Nom :</label>
           <input  type="text"  id="nom"  name="user_name">
